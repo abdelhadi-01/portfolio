@@ -5,7 +5,7 @@ const dataFromCV = {
   name: "Abdelhadi ELIDRISSI",
   role: "Étudiant en 4ᵉ année — Ingénierie Informatique & Réseaux (MIAGE)",
   location: "Casablanca, Maroc",
-  internship: "Stage de fin d’année — 2 mois à partir de juin 2026",
+  internship: "Stage de fin d’année — 2 mois à partir de juin 2026.",
   email: "elabdolhadi@gmail.com",
   phone: "+212 766608150",
   links: [
