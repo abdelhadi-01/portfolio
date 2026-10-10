@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Aplication-du-transport-",
+    "description": null,
+    "html_url": "https://github.com/abdelhadi-01/Aplication-du-transport-",
+    "language": null,
+    "homepage": null
+  },
+  {
+    "name": "MercedesPartsManage",
+    "description": "JavaFX application for Mercedes parts management",
+    "html_url": "https://github.com/abdelhadi-01/MercedesPartsManage",
+    "language": "Java",
+    "homepage": null
+  },
+  {
+    "name": "Platedorme-de-vente-de-bijoux-enligne",
+    "description": " Projet Luxe Bijoux – Plateforme E-commerce de Vente de Bijoux en Ligne ",
+    "html_url": "https://github.com/abdelhadi-01/Platedorme-de-vente-de-bijoux-enligne",
+    "language": "HTML",
+    "homepage": null
+  },
+  {
+    "name": "Plateforme-de-gestion-de-formation-en-ligne-",
+    "description": "\"AH.forms\" est une plateforme  de gestion de formation en ligne permet aux formateurs et institutions de créer, organiser et diffuser des cours facilement. Avec des fonctionnalités comme la gestion des apprenants, le suivi des progrès, les évaluations et les certifications automatisées, elle offre une solution complète pour l'apprentissage en ligne",
+    "html_url": "https://github.com/abdelhadi-01/Plateforme-de-gestion-de-formation-en-ligne-",
+    "language": "HTML",
+    "homepage": ""
+  },
+  {
+    "name": "Plateforme-de-reporting-de-centralisation-des-donn-es-et-d-automatisation-de-l-envoi-des-e-mails",
+    "description": "Développement d’une plateforme de reporting permettant de centraliser les données de plusieurs bases de données, d’automatiser l’exécution des requêtes SQL, de générer des rapports Excel et d’envoyer automatiquement les rapports par e-mail afin d’optimiser les processus de reporting.",
+    "html_url": "https://github.com/abdelhadi-01/Plateforme-de-reporting-de-centralisation-des-donn-es-et-d-automatisation-de-l-envoi-des-e-mails",
+    "language": null,
+    "homepage": null
+  },
+  {
+    "name": "plateforme-de-reservation-des-salles-enligne",
+    "description": "Une solution web moderne pour simplifier la réservation, la gestion et l'optimisation des salles (réunions, formations, événements) dans les entreprises, universités ou espaces coworking.",
+    "html_url": "https://github.com/abdelhadi-01/plateforme-de-reservation-des-salles-enligne",
+    "language": null,
+    "homepage": ""
+  },
+  {
+    "name": "Platform-de-management-du-projet",
+    "description": "Un plateforme de management de projet est un outil qui permet de planifier, organiser, suivre et contrôler les projets de manière collaborative.",
+    "html_url": "https://github.com/abdelhadi-01/Platform-de-management-du-projet",
+    "language": "HTML",
+    "homepage": null
+  },
+  {
+    "name": "platforme-de-menagement-de-stock",
+    "description": null,
+    "html_url": "https://github.com/abdelhadi-01/platforme-de-menagement-de-stock",
+    "language": null,
+    "homepage": null
+  },
+ 
+  {
+    "name": "Programme-de-gestion-du-stock-et-fournisseur",
+    "description": "Une solution logicielle complète pour optimiser la gestion des fournisseurs, des stocks et des produits dans les entreprises, magasins ou plateformes e-commerce.",
+    "html_url": "https://github.com/abdelhadi-01/Programme-de-gestion-du-stock-et-fournisseur",
+    "language": "C",
+    "homepage": ""
+  },
+  
+ 
+  {
+    "name": "transitweb",
+    "description": null,
+    "html_url": "https://github.com/abdelhadi-01/transitweb",
+    "language": "JavaScript",
+    "homepage": null
+  },
+  {
+    "name": "vite-react",
+    "description": null,
+    "html_url": "https://github.com/abdelhadi-01/vite-react",
+    "language": "CSS",
+    "homepage": "https://vite-react-mu-three-61.vercel.app"
+  }
+]
